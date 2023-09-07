@@ -1,0 +1,15 @@
+.Navbar {
+    background-color: darkslateblue;
+    padding: 1rem;
+}
+
+.Navbar a {
+    font-size: 1.5rem;
+    margin: 1rem;
+    color: rgb(135, 206, 250);
+}
+
+.Navbar a.active {
+    color: rgb(54, 195, 255);
+    font-weight: 500;
+}
